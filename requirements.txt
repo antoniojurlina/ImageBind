@@ -10,7 +10,7 @@ fvcore
 eva-decord==0.6.1
 iopath
 numpy>=1.19
-matplotlib
+#matplotlib
 types-regex
-mayavi
-cartopy
+#mayavi
+#cartopy
